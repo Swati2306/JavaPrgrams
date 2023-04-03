@@ -1,3 +1,3 @@
 # JavaPrgrams
 
-Learning Core Jawa with practicles.
+Learning Core Java with practicles.
